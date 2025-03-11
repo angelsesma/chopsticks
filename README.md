@@ -2,7 +2,7 @@
 IBM Course: Getting Started with Git and Github (Final Project)
 
 # Project Title
-A short description of your project goes here.
+Chopsticks is a project that deploys a Simple interest calculator in the CLI.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -16,15 +16,15 @@ A short description of your project goes here.
  git clone https://github.com/tiernuki/chopsticks.git
 ```
 
-2. Install dependencies:
+2. Go to project directory:
 ```bash
- npm install
+ cd /chopsticks/
  ```
 
  ## Usage
 To run the project, use the following command:
 ```bash
-npm start
+sudo run simple-interest.sh
 ```
 ## Contributing
 1. Fork the repository.
